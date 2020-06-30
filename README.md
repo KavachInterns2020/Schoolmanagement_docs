@@ -12,3 +12,5 @@ Procedure for making changes in the repositories -
 - Create pull request
 - Once you verify it, just merge with master branch
 - Done!
+
+We can do this!
